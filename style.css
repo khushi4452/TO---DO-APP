@@ -1,6 +1,7 @@
 body {
-  background-color: cornflowerblue;
+   background-color: #b3d9ff;
 }
+
 
 .todo-app-container {
     background-color: #ffffff;
@@ -16,7 +17,7 @@ body {
     font-size: 20px;
     text-align: center;
     padding: 10px;
-    background-color:aqua ;
+    background-color:#4da6ff ;
     color: #ffffff;
 }
 
