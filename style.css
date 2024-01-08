@@ -1,14 +1,13 @@
 body {
-    div {
-        background: linear-gradient(to right, #9999ff 0%, #ff99cc 100%);
-    } ;
-    background-repeat: no-repeat; 
-    height : 100vh;
+  background-color: cornflowerblue;
 }
 
 .todo-app-container {
     background-color: #ffffff;
-    width: 300px;
-    height:300px;
-    
+    width: 360px;
+    height:450px;
+    display:block;
+    margin: 50px auto;
+    border-radius:20px ;
+    box-shadow: 0 0 10px rgba ;
 }
