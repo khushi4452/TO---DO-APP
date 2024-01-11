@@ -1,5 +1,7 @@
 body {
-   background-color: #b3d9ff;
+   background-image: linear-gradient(to right,#6699ff
+   ,#00b8e6
+   100% );
 }
 
 
@@ -17,7 +19,7 @@ body {
     font-size: 20px;
     text-align: center;
     padding: 10px;
-    background-color:#4da6ff ;
+    background-color: #a366ff ;
     color: #ffffff;
 }
 
