@@ -36,5 +36,27 @@ body {
      
 }
 
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#todo-input {
+    padding: 5px 10px;
+    width:200px;
+    margin :8px 20px;
+
+}
+
+#add-btn {
+    cursor: pointer;
+    padding:5px 10px;
+    border:none;
+    border-radius: 3px;
+    background-color:#a366ff;
+    color: #fff;
+}
 
 
